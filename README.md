@@ -60,3 +60,10 @@ Each image is:
 - Sample predictions
 
 ---
+
+## Requirements
+
+You can install all necessary libraries using the `requirements.txt` file.
+
+```bash
+pip install -r requirements.txt
